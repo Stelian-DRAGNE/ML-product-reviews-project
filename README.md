@@ -1,2 +1,2 @@
-# ML-product-reviews-project
+# ML product reviews project
 A complete project for classifying product review sentiment
